@@ -1,0 +1,3 @@
+SELECT TOP (3) name 
+FROM TEST 
+ORDER BY age
